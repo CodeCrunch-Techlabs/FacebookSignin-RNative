@@ -17,3 +17,6 @@ $ react-native run-ios or react-native run-android
 </br>
 2. React-Native-Firebase
 </br></br></br>
+Important Notes:-</br>
+Drag and Drop FireBase SDK in iOS Project.</br>
+Download Firebase SDK from this Link:- https://firebase.google.com/docs/ios/setup

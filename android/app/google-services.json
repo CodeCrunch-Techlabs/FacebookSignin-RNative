@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "662366524594",
+    "firebase_url": "https://masterblaster-70716.firebaseio.com",
+    "project_id": "masterblaster-70716",
+    "storage_bucket": "masterblaster-70716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662366524594:android:9765605764f9c511",
+        "android_client_info": {
+          "package_name": "com.splash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662366524594-58iu5uaihbif5oum3b242mu7ipll27i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIhThDe243tFe6vvoUkKVK1AOfeQCmk2w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
